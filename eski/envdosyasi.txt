@@ -1,0 +1,2 @@
+MONGO_URI = mongodb+srv://ali1:rLUqottTcwlja7H7@cluster0.dgasvu7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+SECRET_TOKEN = 12345678
